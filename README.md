@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm kelehaseflymontgomery274
 
-<!--
-**kelehaseflymontgomery274/kelehaseflymontgomery274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥊 🎮 🏏 Excited about tech reviews 🥊 🎮 🏏
 
-Here are some ideas to get you started:
+## About Me
+🎽 🏒 🏄 A beginner in UI/UX design 🎽 🏒 🏄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏄 🎳 🌈 🏑 Always learning about testing 🏄 🎳 🌈 🏑
+
+### Fun Facts
+🔥 🎬 Addicted to virtual reality 🔥 🎬
+
+---
+🎻 🛹 🚣 🏓 🛶 Thanks for visiting my profile! 🥁 🛼 🏒 🚣 🎽
